@@ -61,3 +61,7 @@ crashlytics-build.properties
 Player.unity
 Player.unity.meta
 
+testScript.cs
+testScript.cs.meta
+Touched.cs
+Touched.cs.meta
