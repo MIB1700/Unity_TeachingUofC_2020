@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2145224746983624278}
   - component: {fileID: 8100282985791207395}
   - component: {fileID: 1672317664287713333}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TriggerBack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 4943366886234124041}
   - component: {fileID: 6744569026401397090}
   - component: {fileID: 4348047505130677450}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TriggerFront
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 8831289925600796202}
   - component: {fileID: 8831289925600796197}
   - component: {fileID: 8831289925600796196}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Pipe
   m_TagString: pipe
   m_Icon: {fileID: 0}
