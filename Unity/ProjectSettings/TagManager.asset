@@ -7,6 +7,8 @@ TagManager:
   - Sounding
   - MovingCube
   - OSCManager
+  - terrain
+  - pipe
   layers:
   - Default
   - TransparentFX

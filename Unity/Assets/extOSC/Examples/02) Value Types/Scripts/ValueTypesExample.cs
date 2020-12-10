@@ -193,7 +193,7 @@ namespace extOSC.Examples
 
 		public void Start()
 		{
-			TransmitterAddressBlob.text = string.Format("<color=grey>{0}</color>", _boolAddress);
+			TransmitterAddressBlob.text = string.Format("<color=grey>{0}</color>", _blobAddress);
 			TransmitterAddressChar.text = string.Format("<color=grey>{0}</color>", _charAddress);
 			TransmitterAddressColor.text = string.Format("<color=grey>{0}</color>", _colorAddress);
 			TransmitterAddressDouble.text = string.Format("<color=grey>{0}</color>", _doubleAddress);
