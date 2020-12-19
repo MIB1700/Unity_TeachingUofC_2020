@@ -20,3 +20,9 @@ Start the game in *Unity*. The sound in *Max* should start automatically. Variou
 3. jumping will change the bass/melody
 
 This isn't perfect but it kinda works! Have fun!!
+
+
+Here is the link to the Zoom recordings of the seminar. 
+
+https://youtube.com/playlist?list=PLvw2NY3rURY0PQ5ziKDoAuXJF9AP-Htv_
+
